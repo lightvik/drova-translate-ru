@@ -1,0 +1,60 @@
+title_character_segment { Персонаж }
+
+label_character_level { <size=96%><cspace=-0.05em>Уровень</cspace></size> }
+
+tooltip_character_level { Показывает твой текущий уровень. По нему можно судить, насколько силён твой персонаж. }
+
+tooltip_character_faction { Показывает, к какой фракции ты сейчас принадлежишь. }
+
+tooltip_character_skillpoints { Очки обучения можно потратить у учителя на повышение атрибутов или изучение талантов. С каждым новым уровнем ты сразу получаешь <color=#55BD55>четыре</color> очка обучения и <color=#55BD55>пять</color> очков здоровья. }
+
+label_character_skillpoints { <size=96%><cspace=-0.05em>Очки обучения</cspace></size> }
+
+tooltip_character_xp { Очки опыта даются за убийство противников и выполнение заданий. }
+
+label_attributes_hitpoints { <size=96%><cspace=-0.05em>Здоровье</cspace></size> }
+
+tooltip_attributes_hitpoints { Если здоровье упадёт до нуля, твой персонаж погибнет. }
+
+tooltip_attributes_stamina { Выносливость тратится на блок, уклонение и тяжёлые атаки. }
+
+label_attributes_stamina { <size=96%><cspace=-0.05em>Выносливость</cspace></size> }
+
+tooltip_attributes_flow { Фокус тратится на способности. Он копится от нанесённого урона и убывает со временем или от полученного урона. }
+
+label_attributes_flow { <size=96%><cspace=-0.05em>Фокус</cspace></size> }
+
+tooltip_attributes_power { Боевая мощь — это сумма твоих атрибутов. От неё зависит, каким оружием ты можешь владеть. }
+
+tooltip_attributes_strength { Сила увеличивает наносимый физический урон на [VALUE]. }
+
+tooltip_attributes_dexterity { Ловкость повышает шанс критического удара на [VALUE]. Каждый критический удар вызывает у цели кровотечение и наносит дополнительный урон в зависимости от типа оружия. }
+
+tooltip_attributes_mind { Разум увеличивает наносимый магический урон на [VALUE1]. Кроме того, базовый фокус повышается на [VALUE2]. }
+
+label_attributes_armor { <size=96%><cspace=-0.05em>Броня</cspace></size> }
+
+tooltip_attributes_armor { Снижает получаемый физический урон. }
+
+tooltip_attributes_magic_resistance { Снижает получаемый магический урон. }
+
+label_attributes_magic_resistance { <size=96%><cspace=-0.05em>Сопротивление магии</cspace></size> }
+
+title_equipment_segment { Снаряжение }
+
+title_directquickbar_segment { Панель быстрого доступа }
+
+faction_none { Без фракции }
+
+faction_nemeton { Неметон }
+
+faction_ruincamp { Отступники }
+
+title_ammo { Боеприпасы }
+
+totalFIghtingStrength { <size=96%><cspace=-0.05em>Боевая мощь</cspace></size> }
+
+baseFightingStrength { Базовая боевая мощь }
+
+baseFightingStrengthDesc { Базовая боевая мощь — это сумма твоих атрибутов без бонусов от снаряжения. От неё зависит, какие таланты тебе доступны. }
+

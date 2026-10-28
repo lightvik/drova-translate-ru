@@ -1,0 +1,10 @@
+Mog { Мог должен мне $GVAR:QuestVars_Debt_Config.MoneyFromMog$ монет. }
+
+Meluna { Мелуну обокрали, так что и она теперь должна $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ монет. }
+
+Lindon { Линдон зарвался.<br>Он должен мне $GVAR:QuestVars_Debt_Config.MoneyFromLindon$ монет. }
+
+Bady { Даже благородный Бади задолжал $GVAR:QuestVars_Debt_Config.MoneyFromBady$ монет. }
+
+Lore { Лоре задолжала $GVAR:QuestVars_Debt_Config.MoneyFromLore$ монет. }
+

@@ -1,0 +1,158 @@
+back { (Назад) }
+
+end_dialog { (закончить разговор) }
+
+End_(End) { (закончить разговор) }
+
+Silence { (промолчать) }
+
+Leave { (уйти) }
+
+NotEnoughMoney { Монет не хватает. Приходи, когда наберёшь сколько нужно. }
+
+NotEnoughMoney1 { Этих грошей мало. Наберёшь сколько надо — тогда и приходи. }
+
+NotEnoughMoney2 { Ты меня не дури, монет тут не хватает. }
+
+aboutQuests { Насчёт заданий... }
+
+aboutOtherQuests { Помощь с заданиями... }
+
+end { Мне пора дальше. (закончить разговор) }
+
+Teach_SpearSling { Покажешь, как лучше биться копьём и пращой? }
+
+End_WirSehenUns { Ещё увидимся. }
+
+BloodSteel { Кровь и сталь! }
+
+End_VergissEs { Забудь. }
+
+End_KeineZeit { Мне на это некогда. }
+
+Inf_DaWarNochWas { И ещё кое-что... }
+
+SLP_GoaWay { Проваливай. }
+
+Busy_NotNow { Не сейчас. }
+
+End_MussLos { Мне пора. (закончить разговор) }
+
+aboutGenericTopics { Давай поговорим о другом. }
+
+Teach_Smith { Научи меня чему-нибудь из своего ремесла. }
+
+showMeWares { Покажи свой товар. }
+
+Inf_IchSchauMichUm { Я просто осматриваюсь. }
+
+Inf_HabeFrage { У меня вопрос... }
+
+ShowMeSkills { Хочу выучить новые способности. }
+
+Teach_Sword_! { Покажи, как лучше биться мечом. }
+
+Teach_Dagger_! { Покажи, как лучше биться кинжалом. }
+
+End_IchGehDannMal { Ну, я пойду. }
+
+End_VlltSpäter { Может, потом. }
+
+Acc_KuemmereMichDrum { Я этим займусь. }
+
+Teach_Animals { Покажешь, как потрошить зверей? }
+
+Teach_General { Научи меня чему-нибудь. }
+
+Acc_HelfeDir { Ладно, я тебе помогу. }
+
+End_ÜberlegeNoch { Я ещё подумаю. }
+
+Teach_Dagger { Покажешь, как биться кинжалом? }
+
+Armor? { Тебе эти части доспеха на что-нибудь сгодятся? }
+
+Armor { У меня есть три части доспеха — сможешь собрать из них целый доспех? }
+
+ArmorLight { Как можно легче, чтобы в ней было удобно двигаться. }
+
+ArmorHeavy { Такую, что защитит лучше всего. }
+
+ArmorDruid { Броню, на которой побольше рун. }
+
+End_AnderesZuTun { У меня другие дела. }
+
+LetsTraining { Ну что, сразимся? }
+
+LetsRevance { Как насчёт реванша? }
+
+NoTime_TrainingTime { Когда солнце стоит высоко, я на тренировочной площадке. Вот тогда и подерёмся. }
+
+Inf_WasMachstDuHier { Что ты тут делаешь? }
+
+SLP_Dunkel { Приходи, когда над Дровой взойдёт солнце! }
+
+Run_IchBinNochDabei { Я ещё этим занимаюсь... }
+
+SLP_Müde { Сейчас бы три ночи кряду проспать... да дел по горло. ВСЕГДА дел по горло... }
+
+Teach_Training { Давай потренируемся. }
+
+LetsTraining_fromMorvin { Проксим сказал, что нам надо потренироваться. }
+
+Inf_Crimes { Насчёт моих проступков... }
+
+FightingArena { Сегодня мы с тобой бьёмся на арене. }
+
+Teach_Mind { Покажи, как мне развить свою магическую силу. }
+
+Teach_SpearSling_! { Покажи, как лучше биться копьём и пращой. }
+
+Teach_Axe_! { Покажи, как лучше биться топором. }
+
+SLP_Zeit { *зевает* Не сейчас... }
+
+Acc_BinDabei { Я в деле! }
+
+Teach_Power { Покажи, как стать сильнее. }
+
+End_NichtsZuTun { Не хочу в это ввязываться. }
+
+Teach_Sword { Научишь меня владению мечом? }
+
+Teach_Lockpicking { Научи меня взламывать замки. }
+
+MeldDichBeiMir { Надумаешь — просто скажи. }
+
+HereIsMyMoney { Вот монеты. }
+
+PlayerSaysTheyDontHaveMoney { У меня не хватает монет... }
+
+PlayCatch { Хочешь поиграть в салки? }
+
+OnlyNemetonTeaching { Я учу только бойцов Неметона. }
+
+Teach_Axe { Покажешь, как лучше биться топором? }
+
+HaveRostmoos { У меня с собой ржавомох. Надо? }
+
+FastTravel { Подвезёшь меня? }
+
+FastTravel_Ruinenlager { Отвези меня в Лагерь отступников. }
+
+FastTravel_Nemeton { Отвези меня в Неметон. }
+
+FastTravel_Tavern { Отвези меня к таверне. }
+
+FastTravel_Georgsfarm { Отвези меня на хутор Георга. }
+
+FastTravel_Accepted { Ладно, запрыгивай сзади на повозку. Сейчас и тронемся. }
+
+FastTravel_Rejected { Если передумаешь... ты знаешь, где меня найти. }
+
+FastTravel_IntroChapter2_01 { Если не хочешь бродить в одиночку, можешь поехать со мной в повозке. }
+
+FastTravel_IntroChapter2_02 { И стоит всего $GVAR:QuestVars_FastTravel_Config.Costs$ монет. }
+
+FastTravel_GerogsFarm { У нас пополнение, так что теперь мы ездим и на хутор Георга. }
+

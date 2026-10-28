@@ -1,0 +1,32 @@
+Title_Maps { Карты }
+
+MapName_World_Rough { Грубая карта мира }
+
+MapName_World_Detailed { Карта мира }
+
+MapName_World_Shrines { Святилища }
+
+MapName_Nemeton { Неметон }
+
+MapName_Ruincamp { Лагерь отступников }
+
+MapName_Leuchtwald { Сумрачный лес }
+
+MapName_Tristan { Карта Тристана }
+
+MarkerPlaced { Отмечено на карте }
+
+NoInk { Нужны чернила }
+
+Title_Markers { Метки }
+
+Hour_Minute_Separator { : }
+
+PlaceMarker { Поставить метку }
+
+DeleteMarker { Убрать метку }
+
+Hint_Ink { Купи чернила, чтобы отмечать места на карте. }
+
+MapName_CaveSystem { Пещеры }
+

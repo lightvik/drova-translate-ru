@@ -1,0 +1,42 @@
+Entry_Created { Новая запись в дневнике }
+
+Entry_Updated { Дневник обновлён }
+
+OthersUpdated { и ещё $JOURNAL:Others$ }
+
+Tab_Quests_Finished { <size=92%><cspace=-0.05em> Завершено</cspace></size> }
+
+Tab_Quests_Running { <size=92%><cspace=-0.05em> Текущие</cspace></size> }
+
+Tab_Letters { <size=92%><cspace=-0.05em> Записи</cspace></size> }
+
+Group_Bandits { Расхитители руин }
+
+Group_Nemeton { Неметон }
+
+Group_RuinCamp { Отступники }
+
+Group_Tavern { Таверна }
+
+Group_Woodcamp { Лесорубы }
+
+Group_World { Мир }
+
+Group_Unsorted { Прочее }
+
+Group_Magielager { Убежище }
+
+Group_RedTower { Красная башня }
+
+Group_Mine { Шахта }
+
+Group_MainQuest { Основное задание }
+
+Group_Dungeon_Library { Библиотека }
+
+Group_Dungeon_City { Город в Сумрачном лесу }
+
+Group_Dungeon_Auwald { Плато Пойменного леса }
+
+Group_TreasureMaps { Карты сокровищ }
+

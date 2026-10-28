@@ -1,0 +1,128 @@
+healingText { Восстанавливает [MaxStack] здоровья за [StackTime] сек. }
+
+damage { Урон }
+
+attack { Урон от атаки }
+
+flowgain { Фокус }
+
+physicalblock { Физический блок }
+
+magicalblock { Магический блок }
+
+physicalresistance { Броня }
+
+magicalresistance { Сопротивление магии }
+
+flowcosts { Затраты фокуса }
+
+strength { Сила }
+
+dexterity { Ловкость }
+
+mind { Разум }
+
+health { Здоровье }
+
+healing { Восстанавливает [VALUE] от максимального здоровья }
+
+learningpoints { ОО }
+
+talentlearned { Изучен }
+
+talentcannotlearned { Пока нельзя изучить }
+
+talentcanbelearned { Можно изучить }
+
+unknownteacher { Неизвестен }
+
+talentnotknown { Этот талант ещё не открыт }
+
+foodText { Восстанавливает [HealValue] здоровья каждые [StackTime] сек., пока всего не наберётся [MaxStack]. При полном здоровье восстановление приостанавливается. }
+
+recipe_requirements { Требуется: }
+
+buffAdditionalDescription { (Новая еда заменяет эффект сытости) }
+
+maxHealth { Макс. здоровье [VALUE] }
+
+flowGain { Фокус [VALUE] }
+
+magicDamage { Магический урон [VALUE] }
+
+bleedingChance { Шанс кровотечения [VALUE] }
+
+weaponDamage { Урон оружием [VALUE] }
+
+movementSpeed { Скорость передвижения [VALUE] }
+
+poiseDamage { Урон по стойке [VALUE] }
+
+magicResistance { Сопротивление магии [VALUE] }
+
+staminaReg { Восстановление выносливости [VALUE] }
+
+flowReg { Восстановление фокуса [VALUE] }
+
+armor { Броня [VALUE] }
+
+healAdditionalDescription { (Такой же предмет заменяет действующий эффект) }
+
+flowPhysical { Способность }
+
+flowMagical { Заклинание }
+
+flowOneTime { Свиток заклинания }
+
+learnspell { Используй предмет, чтобы изучить способность }
+
+learnrecipe { Используй предмет, чтобы изучить рецепт }
+
+alreadylearned { Уже изучено }
+
+trashtotrade { Добавить хлам к стоимости товаров }
+
+craftingItem { Материал для ремесла }
+
+saleitem { Товар на продажу }
+
+weaponDamage_single { Урон оружием [VALUE] }
+
+critchance { Шанс крит. удара }
+
+critchance_Value { Шанс крит. удара [VALUE] }
+
+orientationpoint { Базовый фокус [VALUE] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ физ. урона }
+
+stat_change_dex { +$STATCHANGE:CritChance$ к шансу крит. }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ маг. урона, +$STATCHANGE:Focus$ баз. фокуса }
+
+helmet_cosmetics { (Шлемы — только для красоты и никак не влияют на твоего персонажа.) }
+
+mainHandWeapon { Одноручное оружие }
+
+offHandWeapon { Вторая рука }
+
+twoHandedWeapon { Двуручное оружие }
+
+munition { Боеприпасы }
+
+drug_description { Затуманивает чувства }
+
+LearnSpell { Учит оружейному приёму }
+
+flowText { Восполняет [HealValue] фокуса за [StackTime] сек. }
+
+needrunestone { Нужен рунный камень }
+
+strength_value { Сила [VALUE] }
+
+dex_value { Ловкость [VALUE] }
+
+mind_value { Разум [VALUE] }
+
+trinket_equipable { Даже если у тебя несколько таких предметов, надеть можно только один. }
+
