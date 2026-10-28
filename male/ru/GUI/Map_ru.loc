@@ -1,18 +1,18 @@
 Title_Maps { Карты }
 
-MapName_World_Rough { Грубая карта мира }
+MapName_World_Rough { <size=80%>Грубая карта мира</size> }
 
-MapName_World_Detailed { Карта мира }
+MapName_World_Detailed { <size=80%>Карта мира</size> }
 
-MapName_World_Shrines { Святилища }
+MapName_World_Shrines { <size=80%>Святилища</size> }
 
-MapName_Nemeton { Неметон }
+MapName_Nemeton { <size=80%>Неметон</size> }
 
-MapName_Ruincamp { Лагерь отступников }
+MapName_Ruincamp { <size=80%>Лагерь отступников</size> }
 
-MapName_Leuchtwald { Сумрачный лес }
+MapName_Leuchtwald { <size=80%>Сумрачный лес</size> }
 
-MapName_Tristan { Карта Тристана }
+MapName_Tristan { <size=80%>Карта Тристана</size> }
 
 MarkerPlaced { Отмечено на карте }
 
@@ -28,5 +28,5 @@ DeleteMarker { Убрать метку }
 
 Hint_Ink { Купи чернила, чтобы отмечать места на карте. }
 
-MapName_CaveSystem { Пещеры }
+MapName_CaveSystem { <size=80%>Пещеры</size> }
 
