@@ -14,11 +14,11 @@ talent_sneak_01 { Скрытность }
 
 talent_sneak_01_desc { Ты крадёшься тише, и противникам труднее тебя заметить. }
 
-talent_shield_02 { Бой со щитом II }
+talent_shield_02 { Владение щитом II }
 
 talent_shield_02_desc { Идеальный блок ненадолго оглушает противника. }
 
-talent_shield_01 { Бой со щитом I }
+talent_shield_01 { Владение щитом I }
 
 talent_shield_01_desc { Отныне ты умеешь ставить щитом идеальный блок. }
 
@@ -26,27 +26,27 @@ talent_shield_01_additionale_headline { Идеальный блок }
 
 talent_shield_01_additionale_desc { Если ты блокируешь за миг до удара, выходит идеальный блок: он отнимает совсем немного выносливости. }
 
-talent_spear_01 { Бой копьём I }
+talent_spear_01 { Владение копьём I }
 
 talent_spear_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь оружейный приём «Пронзание». }
 
-talent_spear_02 { Бой копьём II }
+talent_spear_02 { Владение копьём II }
 
 talent_spear_02_desc { Увеличивает наносимый урон на [DamageValuePercent], а обычные удары копьём восстанавливают [StaminaValueAbsolut] выносливости. }
 
-talent_spear_03 { Бой копьём III }
+talent_spear_03 { Владение копьём III }
 
 talent_spear_03_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], а восстановление выносливости за каждое попадание — до [StaminaValueAbsolut]. }
 
-talent_dagger_01 { Бой на кинжалах I }
+talent_dagger_01 { Владение кинжалом I }
 
 talent_dagger_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь оружейный приём «Заражение». }
 
-talent_dagger_02 { Бой на кинжалах II }
+talent_dagger_02 { Владение кинжалом II }
 
 talent_dagger_02_desc { Увеличивает наносимый урон на [DamageValuePercent], а фокус, получаемый за каждое попадание, — на [FocusValueAbsolut]. }
 
-talent_dagger_03 { Бой на кинжалах III }
+talent_dagger_03 { Владение кинжалом III }
 
 talent_dagger_03_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], а фокус, получаемый за каждое попадание, — на [FocusValueAbsolut]. }
 
@@ -62,23 +62,23 @@ talent_bow_01_desc { Увеличивает наносимый урон на [Da
 
 talent_bow_02_desc { Увеличивает наносимый урон на [DamageValuePercent], ты быстрее целишься и осваиваешь оружейный приём «Оглушающий выстрел». }
 
-talent_slingshot_01 { Бой с пращой I }
+talent_slingshot_01 { Владение пращой I }
 
-talent_slingshot_02 { Бой с пращой II }
+talent_slingshot_02 { Владение пращой II }
 
 talent_slingshot_01_desc { Увеличивает наносимый урон на [DamageValuePercent], урон по стойке — на [PoiseValuePercent], и ты осваиваешь оружейный приём «Рикошет». }
 
 talent_slingshot_02_desc { Увеличивает наносимый урон на [DamageValuePercent], а урон по стойке — на [PoiseValuePercent]. }
 
-talent_axe_01 { Бой топором I }
+talent_axe_01 { Владение топором I }
 
 talent_axe_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь оружейный приём «Казнь». }
 
-talent_axe_02 { Бой топором II }
+talent_axe_02 { Владение топором II }
 
 talent_axe_02_desc { Увеличивает наносимый урон на [DamageValuePercent] и открывает третий удар комбо. }
 
-talent_axe_03 { Бой топором III }
+talent_axe_03 { Владение топором III }
 
 talent_axe_03_desc { Улучшает боевую стойку и увеличивает наносимый урон на [DamageValuePercent]. }
 
@@ -90,9 +90,9 @@ talent_lockpicking_01 { Взлом сложных замков }
 
 talent_lockpicking_01_desc { Теперь перед тобой не устоит ни один замок. }
 
-talent_extractsecretion { Извлечение секрета }
+talent_extractsecretion { Добыча ихора }
 
-talent_extractsecretion_desc { Из некоторых животных ты можешь извлекать секрет. Секрет нужен для зелий и ремесла. }
+talent_extractsecretion_desc { Из некоторых животных ты можешь добывать ихор. Ихор нужен для зелий и ремесла. }
 
 talent_tearclaws { Удаление когтей }
 
@@ -130,7 +130,7 @@ talent_axe_critonpoise { Последняя милость }
 
 talent_axe_critonpoise_desc { Первый удар топором по противнику со сломленной стойкой всегда критический. }
 
-talent_axe_decreasestamina { Полный размах }
+talent_axe_decreasestamina { С размаху }
 
 talent_axe_decreasestamina_desc { Тяжёлые удары топором тратят на [StaminaValuePercent] меньше выносливости. }
 
@@ -162,7 +162,7 @@ Talent_Spear_GenerateFlow { Сосредоточенные удары }
 
 Talent_Spear_GenerateFlow_desc { Каждый удар копьём по одному и тому же противнику увеличивает получаемый фокус на [FocusValueAbsolut]. }
 
-Talent_Spear_MoreDmgOnHead { Остриё мастерства }
+Talent_Spear_MoreDmgOnHead { Острый конец }
 
 Talent_Spear_MoreDmgOnHead_desc { Удар остриём копья наносит дополнительно до [DamageValuePercent] урона. }
 
@@ -182,7 +182,7 @@ Talent_Sling_MultipleProjectiles { Двойной заряд }
 
 Talent_Sling_MultipleProjectiles_desc { С вероятностью [TriggerPercent] вылетают сразу два снаряда, а боеприпас тратится только один. }
 
-Talent_Sling_AddDmgOnPoise { Сотрясение }
+Talent_Sling_AddDmgOnPoise { Контузия }
 
 Talent_Sling_AddDmgOnPoise_desc { Если ты сломишь пращой стойку противника, твой следующий удар нанесёт ему на [DamageValuePercent] больше урона. }
 

@@ -8,7 +8,7 @@ Personal { Личное }
 
 Recipes { Рецепты }
 
-Title_Panel { Ремесло }
+Title_Panel { <size=90%>Ремесло</size> }
 
 Toggle_CraftableOnly { Показать только доступные рецепты }
 

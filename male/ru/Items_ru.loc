@@ -404,9 +404,9 @@ item_ironlump_name { Кусок железа }
 
 item_frogleg_name { Лягушачья лапка }
 
-item_acidsecretion_name { Кислотный секрет }
+item_acidsecretion_name { Кислотный ихор }
 
-item_acidsecretion_description { Можно добыть у животных с помощью таланта «Извлечение секрета». }
+item_acidsecretion_description { Можно добыть у животных с помощью таланта «Добыча ихора». }
 
 item_forestessence_name { Лесная эссенция }
 
@@ -628,7 +628,7 @@ item_energycrystal_brutus_empty_name { Пустой кристалл силы }
 
 item_energycrystal_brutus_charged_name { Заряженный кристалл силы }
 
-item_secret_foglets_name { Секрет туманника }
+item_secret_foglets_name { Ихор туманника }
 
 item_ripper_head_name { Огромный коготь потрошителя }
 
@@ -638,7 +638,7 @@ item_essence_atlanter_description { Такую эссенцию можно до�
 
 item_heart_name { Медвежье сердце }
 
-item_secret_poise_name { Ядовитый секрет }
+item_secret_poise_name { Ядовитый ихор }
 
 item_beak_name { Клюв }
 

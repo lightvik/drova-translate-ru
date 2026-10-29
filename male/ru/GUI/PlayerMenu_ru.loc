@@ -1,8 +1,8 @@
-Title_Inventory { Инвентарь }
+Title_Inventory { <size=90%>Инвентарь</size> }
 
-Title_Journal { Дневник }
+Title_Journal { <size=90%>Дневник</size> }
 
-Title_Talents { Таланты }
+Title_Talents { <size=90%>Таланты</size> }
 
-Title_Spells { Способности }
+Title_Spells { <size=90%>Способности</size> }
 
