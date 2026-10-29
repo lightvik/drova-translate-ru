@@ -1,10 +1,10 @@
-ExpPoints { <size=96%><cspace=-0.05em>Очки опыта</cspace></size> }
+ExpPoints { <size=88%><cspace=-0.05em>Очки опыта</cspace></size> }
 
-Name_Strength { <size=96%><cspace=-0.05em>Сила</cspace></size> }
+Name_Strength { <size=88%><cspace=-0.05em>Сила</cspace></size> }
 
-Name_Mind { <size=96%><cspace=-0.05em>Разум</cspace></size> }
+Name_Mind { <size=88%><cspace=-0.05em>Разум</cspace></size> }
 
-Name_Dex { <size=96%><cspace=-0.05em>Ловкость</cspace></size> }
+Name_Dex { <size=88%><cspace=-0.05em>Ловкость</cspace></size> }
 
 Name_Armor { Броня }
 
