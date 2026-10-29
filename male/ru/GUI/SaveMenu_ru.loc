@@ -16,9 +16,9 @@ SlotType_Auto { Автосохранение $SAVE:SlotType$ }
 
 SlotType_Normal { Сохранение $SAVE:SlotType$ }
 
-deleteSavegamePopUp { Ты точно хочешь удалить это сохранение? }
+deleteSavegamePopUp { Вы точно хотите удалить это сохранение? }
 
-overwriteHeroPopUp { У тебя уже максимальное число персонажей. Выбери, кого из них перезаписать. }
+overwriteHeroPopUp { У вас уже максимальное число персонажей. Выберите, кого из них перезаписать. }
 
 Title_OverwriteHero { Какого персонажа перезаписать? }
 
@@ -30,11 +30,11 @@ Corrupted_00 { Сохранение повреждено }
 
 Corrupted_PopUp_Desc { Это сохранение повреждено, загрузить его нельзя. }
 
-ToMainMenuPopUp_Desc { Ты точно хочешь вернуться в главное меню? }
+ToMainMenuPopUp_Desc { Вы точно хотите вернуться в главное меню? }
 
 ToMainMenuPopUp_Restricted_Desc { Сейчас игру сохранить нельзя. Всё равно вернуться в главное меню? }
 
-QuitPopUp_Desc { Ты точно хочешь выйти из игры? }
+QuitPopUp_Desc { Вы точно хотите выйти из игры? }
 
 QuitPopUp_Restricted_Desc { Сейчас игру сохранить нельзя. Всё равно выйти из игры? }
 

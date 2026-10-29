@@ -1,6 +1,6 @@
 talent_sword_01 { Владение мечом I }
 
-talent_sword_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь оружейный приём «Кровавое безумие». }
+talent_sword_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и вы осваиваете оружейный приём «Кровавое безумие». }
 
 talent_sword_02 { Владение мечом II }
 
@@ -12,7 +12,7 @@ talent_sword_03_desc { Улучшает боевую стойку и увели�
 
 talent_sneak_01 { Скрытность }
 
-talent_sneak_01_desc { Ты крадёшься тише, и противникам труднее тебя заметить. }
+talent_sneak_01_desc { Вы крадётесь тише, и противникам труднее вас заметить. }
 
 talent_shield_02 { Владение щитом II }
 
@@ -20,15 +20,15 @@ talent_shield_02_desc { Идеальный блок ненадолго оглу�
 
 talent_shield_01 { Владение щитом I }
 
-talent_shield_01_desc { Отныне ты умеешь ставить щитом идеальный блок. }
+talent_shield_01_desc { Отныне вы умеете ставить щитом идеальный блок. }
 
 talent_shield_01_additionale_headline { Идеальный блок }
 
-talent_shield_01_additionale_desc { Если ты блокируешь за миг до удара, выходит идеальный блок: он отнимает совсем немного выносливости. }
+talent_shield_01_additionale_desc { Если вы блокируете за миг до удара, выходит идеальный блок: он отнимает совсем немного выносливости. }
 
 talent_spear_01 { Владение копьём I }
 
-talent_spear_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь оружейный приём «Пронзание». }
+talent_spear_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и вы осваиваете оружейный приём «Пронзание». }
 
 talent_spear_02 { Владение копьём II }
 
@@ -40,7 +40,7 @@ talent_spear_03_desc { Улучшает боевую стойку, увелич�
 
 talent_dagger_01 { Владение кинжалом I }
 
-talent_dagger_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь оружейный приём «Заражение». }
+talent_dagger_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и вы осваиваете оружейный приём «Заражение». }
 
 talent_dagger_02 { Владение кинжалом II }
 
@@ -56,23 +56,23 @@ talent_bow_02 { Стрельба из лука II }
 
 talent_bow_01_additionale_headline { Мощный выстрел }
 
-talent_bow_01_additionale_desc { Целясь из лука, ты можешь в нужный миг сделать мощный выстрел, который наносит [WeaponDamagePercent] урона оружием. }
+talent_bow_01_additionale_desc { Целясь из лука, вы можете в нужный миг сделать мощный выстрел, который наносит [WeaponDamagePercent] урона оружием. }
 
-talent_bow_01_desc { Увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь мощный выстрел из лука. }
+talent_bow_01_desc { Увеличивает наносимый урон на [DamageValuePercent], и вы осваиваете мощный выстрел из лука. }
 
-talent_bow_02_desc { Увеличивает наносимый урон на [DamageValuePercent], ты быстрее целишься и осваиваешь оружейный приём «Оглушающий выстрел». }
+talent_bow_02_desc { Увеличивает наносимый урон на [DamageValuePercent], вы быстрее целитесь и осваиваете оружейный приём «Оглушающий выстрел». }
 
 talent_slingshot_01 { Владение пращой I }
 
 talent_slingshot_02 { Владение пращой II }
 
-talent_slingshot_01_desc { Увеличивает наносимый урон на [DamageValuePercent], урон по стойке — на [PoiseValuePercent], и ты осваиваешь оружейный приём «Рикошет». }
+talent_slingshot_01_desc { Увеличивает наносимый урон на [DamageValuePercent], урон по стойке — на [PoiseValuePercent], и вы осваиваете оружейный приём «Рикошет». }
 
 talent_slingshot_02_desc { Увеличивает наносимый урон на [DamageValuePercent], а урон по стойке — на [PoiseValuePercent]. }
 
 talent_axe_01 { Владение топором I }
 
-talent_axe_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и ты осваиваешь оружейный приём «Казнь». }
+talent_axe_01_desc { Улучшает боевую стойку, увеличивает наносимый урон на [DamageValuePercent], и вы осваиваете оружейный приём «Казнь». }
 
 talent_axe_02 { Владение топором II }
 
@@ -84,43 +84,43 @@ talent_axe_03_desc { Улучшает боевую стойку и увелич�
 
 talent_alchemy { Варка зелий }
 
-talent_alchemy_desc { Ты умеешь варить зелья, которые помогают в бою или улучшают твои характеристики. }
+talent_alchemy_desc { Вы умеете варить зелья, которые помогают в бою или улучшают ваши характеристики. }
 
 talent_lockpicking_01 { Взлом сложных замков }
 
-talent_lockpicking_01_desc { Теперь перед тобой не устоит ни один замок. }
+talent_lockpicking_01_desc { Теперь перед вами не устоит ни один замок. }
 
 talent_extractsecretion { Добыча ихора }
 
-talent_extractsecretion_desc { Из некоторых животных ты можешь добывать ихор. Ихор нужен для зелий и ремесла. }
+talent_extractsecretion_desc { Из некоторых животных вы можете добывать ихор. Ихор нужен для зелий и ремесла. }
 
 talent_tearclaws { Удаление когтей }
 
-talent_tearclaws_desc { Ты можешь вырывать у животных когти и зубы. Когти можно продать, а зубы пригодятся в ремесле. }
+talent_tearclaws_desc { Вы можете вырывать у животных когти и зубы. Когти можно продать, а зубы пригодятся в ремесле. }
 
 talent_melting_01 { Плавка }
 
-talent_melting_01_desc { Ты можешь плавить руду в сыродутных печах. }
+talent_melting_01_desc { Вы можете плавить руду в сыродутных печах. }
 
 talent_smith_01 { Ремесло }
 
-talent_smith_01_desc { Ты умеешь мастерить всякие полезные вещи. }
+talent_smith_01_desc { Вы умеете мастерить всякие полезные вещи. }
 
 talent_smith_02 { Мастерское ремесло }
 
-talent_smith_02_desc { Ты умеешь мастерить опасные ловушки, полезные вещи и боеприпасы. }
+talent_smith_02_desc { Вы умеете мастерить опасные ловушки, полезные вещи и боеприпасы. }
 
 talent_stripfur { Свежевание }
 
-talent_stripfur_desc { Ты можешь снимать с животных шкуры. Шкуры можно продать или пустить на ремесло. }
+talent_stripfur_desc { Вы можете снимать с животных шкуры. Шкуры можно продать или пустить на ремесло. }
 
 talent_shield_CritAfterBlock { Выбить из равновесия }
 
-talent_shield_CritAfterBlock_desc { Если ты идеально блокируешь атаку, твой следующий удар будет критическим. }
+talent_shield_CritAfterBlock_desc { Если вы идеально блокируете атаку, ваш следующий удар будет критическим. }
 
 talent_shield_flow_afterblock { И это всё? }
 
-talent_shield_flow_afterblock_desc { Если ты идеально блокируешь атаку, то получаешь [FocusValueAbsolut] фокуса. }
+talent_shield_flow_afterblock_desc { Если вы идеально блокируете атаку, то получаете [FocusValueAbsolut] фокуса. }
 
 talent_axe_adddmgflow { Боевой угар }
 
@@ -140,7 +140,7 @@ Talent_Daggers_CritAfterDodge_desc { У первого удара кинжало
 
 Talent_Daggers_DecreaseFlow { Полная сосредоточенность! }
 
-Talent_Daggers_DecreaseFlow_desc { Применив способность, ты получаешь [FocusValueAbsolut] фокуса. }
+Talent_Daggers_DecreaseFlow_desc { Применив способность, вы получаете [FocusValueAbsolut] фокуса. }
 
 Talent_Daggers_RegenerateStamina { Экономные удары }
 
@@ -148,7 +148,7 @@ Talent_Daggers_RegenerateStamina_desc { Обычные удары кинжало
 
 Talent_Sword_NextSpellLesserFlow { Оппортунист }
 
-Talent_Sword_NextSpellLesserFlow_desc { После критического удара мечом тебе возвращается [FocusValuePercent] затрат фокуса на следующую применённую способность. }
+Talent_Sword_NextSpellLesserFlow_desc { После критического удара мечом вам возвращается [FocusValuePercent] затрат фокуса на следующую применённую способность. }
 
 Talent_Sword_ChargeAttacksDecreaseStamina { Тяжёлые удары }
 
@@ -172,7 +172,7 @@ Talent_Spear_PoiseOnCrit_desc { Критический удар копьём с 
 
 Talent_Bow_InstantAfterDodge { Быстрый выстрел }
 
-Talent_Bow_InstantAfterDodge_desc { После уклонения ты можешь выпустить стрелу, не целясь. }
+Talent_Bow_InstantAfterDodge_desc { После уклонения вы можете выпустить стрелу, не целясь. }
 
 Talent_Bow_IncreaseCritDamage { В яблочко }
 
@@ -184,7 +184,7 @@ Talent_Sling_MultipleProjectiles_desc { С вероятностью [TriggerPerc
 
 Talent_Sling_AddDmgOnPoise { Контузия }
 
-Talent_Sling_AddDmgOnPoise_desc { Если ты сломишь пращой стойку противника, твой следующий удар нанесёт ему на [DamageValuePercent] больше урона. }
+Talent_Sling_AddDmgOnPoise_desc { Если вы сломите пращой стойку противника, ваш следующий удар нанесёт ему на [DamageValuePercent] больше урона. }
 
 Talent_Sling_Ricochet_Name { Рикошет }
 
@@ -196,7 +196,7 @@ Talent_Sling_HeavyShot_Desc { Сильный выстрел: наносит [Wea
 
 teachers { Учитель }
 
-talent_mining_desc { При добыче руды тебе достаётся больше. }
+talent_mining_desc { При добыче руды вам достаётся больше. }
 
 talent_mining_01 { Добыча руды 1 }
 

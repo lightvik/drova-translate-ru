@@ -74,9 +74,9 @@ flowMagical { Заклинание }
 
 flowOneTime { Свиток заклинания }
 
-learnspell { Используй предмет, чтобы изучить способность }
+learnspell { Используйте предмет, чтобы изучить способность }
 
-learnrecipe { Используй предмет, чтобы изучить рецепт }
+learnrecipe { Используйте предмет, чтобы изучить рецепт }
 
 alreadylearned { Уже изучено }
 
@@ -100,7 +100,7 @@ stat_change_dex { +$STATCHANGE:CritChance$ к шансу крит. }
 
 stat_change_mind { +$STATCHANGE:MagDmg$ маг. урона, +$STATCHANGE:Focus$ баз. фокуса }
 
-helmet_cosmetics { (Шлемы — только для красоты и никак не влияют на твоего персонажа.) }
+helmet_cosmetics { (Шлемы — только для красоты и никак не влияют на вашего персонажа.) }
 
 mainHandWeapon { Одноручное оружие }
 
@@ -124,5 +124,5 @@ dex_value { Ловкость [VALUE] }
 
 mind_value { Разум [VALUE] }
 
-trinket_equipable { Даже если у тебя несколько таких предметов, надеть можно только один. }
+trinket_equipable { Даже если у вас несколько таких предметов, надеть можно только один. }
 

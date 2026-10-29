@@ -484,11 +484,11 @@ item_shinyStone_description { Мне его дал друид. Велено от
 
 cons_flow_energyProjectile_name { Магический снаряд }
 
-cons_flow_energyProjectile_description { Выпускает магический снаряд туда, куда ты смотришь. При попадании он взрывается и наносит [DamageFlexAbs] магического урона. }
+cons_flow_energyProjectile_description { Выпускает магический снаряд туда, куда вы смотрите. При попадании он взрывается и наносит [DamageFlexAbs] магического урона. }
 
 cons_flow_conflagration_name { Огненный шторм }
 
-cons_flow_conflagration_description { Вызывает вокруг тебя огненный взрыв, который наносит [DamageFlexAbs] магического урона. }
+cons_flow_conflagration_description { Вызывает вокруг вас огненный взрыв, который наносит [DamageFlexAbs] магического урона. }
 
 cons_flow_wound_name { Ранение }
 
@@ -652,7 +652,7 @@ item_spider_thread_name { Паутинная нить }
 
 item_essence_void_name { Осколок тени }
 
-item_essence_void_description { Тёмный осколок, который ненадолго обращает тебя в тень. На [TimeAbs] сек. повышает сопротивление урону на [DamageResPercent]. }
+item_essence_void_description { Тёмный осколок, который ненадолго обращает вас в тень. На [TimeAbs] сек. повышает сопротивление урону на [DamageResPercent]. }
 
 consumable_potion_darkbrew_healing_name { Тёмное варево }
 
@@ -704,7 +704,7 @@ cons_flow_execute_description { Наносит [WeaponDamagePercent] урона 
 
 cons_flow_pierce_name { Пронзание }
 
-cons_flow_pierce_description { Прыжок вперёд и серия быстрых уколов копьём: каждое попадание наносит противникам перед тобой [WeaponDamagePercent] урона оружием. }
+cons_flow_pierce_description { Прыжок вперёд и серия быстрых уколов копьём: каждое попадание наносит противникам перед вами [WeaponDamagePercent] урона оружием. }
 
 cons_flow_infection_name { Заражение }
 
@@ -720,7 +720,7 @@ item_atlanterAcademyText_name { Путь Минувших в Дрову }
 
 cons_flow_blink_name { Туманный шаг }
 
-cons_flow_blink_description { Переносит тебя на небольшое расстояние туда, куда ты смотришь. }
+cons_flow_blink_description { Переносит вас на небольшое расстояние туда, куда вы смотрите. }
 
 item_kiepe_name { Заплечный короб }
 
@@ -730,15 +730,15 @@ cons_flow_fogForm_description { Повышает скорость передви
 
 cons_flow_fireCry_name { Огненный крик }
 
-cons_flow_fireCry_description { Наносит [DamageFlexAbs] магического урона в конусе перед тобой. }
+cons_flow_fireCry_description { Наносит [DamageFlexAbs] магического урона в конусе перед вами. }
 
 cons_flow_root_cone_name { Конус корней }
 
-cons_flow_root_cone_description { Призывает корни, которые на [TimeAbs] сек. удерживают противников в конусе перед тобой. }
+cons_flow_root_cone_description { Призывает корни, которые на [TimeAbs] сек. удерживают противников в конусе перед вами. }
 
 cons_flow_conjure_pack_name { Призыв: стая }
 
-cons_flow_conjure_pack_description { Призывает стаю потрошителей, которые растерзают твоих противников. }
+cons_flow_conjure_pack_description { Призывает стаю потрошителей, которые растерзают ваших противников. }
 
 cons_flow_conjure_insects_name { Призыв: насекомые }
 
@@ -750,11 +750,11 @@ cons_flow_conjure_rats_description { Призывает крыс, которые
 
 cons_flow_venomCry_name { Ядовитый крик }
 
-cons_flow_venomCry_description { Создаёт перед тобой облако, которое отравляет противников и наносит [DamageFlexAbs] магического урона в секунду. }
+cons_flow_venomCry_description { Создаёт перед вами облако, которое отравляет противников и наносит [DamageFlexAbs] магического урона в секунду. }
 
 cons_flow_thunderstorm_name { Гроза }
 
-cons_flow_thunderstorm_description { Вызывает могучую грозу, и молнии бьют по твоим врагам. Длится [TimeAbs] сек. }
+cons_flow_thunderstorm_description { Вызывает могучую грозу, и молнии бьют по вашим врагам. Длится [TimeAbs] сек. }
 
 misc_traderBag_name { Грязный мешок }
 
@@ -776,7 +776,7 @@ item_letterFromEtzel_name { Записка с места нападения }
 
 cons_flow_root_aoe_name { Круг корней }
 
-cons_flow_root_aoe_description { Призывает корни, которые на [TimeAbs] сек. удерживают противников вокруг тебя. }
+cons_flow_root_aoe_description { Призывает корни, которые на [TimeAbs] сек. удерживают противников вокруг вас. }
 
 item_escortLetter_name { Объявление: охрана до Лагеря отступников }
 
@@ -788,11 +788,11 @@ cons_flow_flowForm_description { Увеличивает наносимый фи�
 
 cons_flow_whirlingEnergy_name { Вихрь энергии }
 
-cons_flow_whirlingEnergy_description { Призывает вокруг тебя магический вихрь, который наносит [DamageFlexAbs] магического урона в секунду. Длится [TimeAbs] сек. }
+cons_flow_whirlingEnergy_description { Призывает вокруг вас магический вихрь, который наносит [DamageFlexAbs] магического урона в секунду. Длится [TimeAbs] сек. }
 
 cons_flow_magicVision_name { Магический взор }
 
-cons_flow_magicVision_description { На [TimeAbs] сек. ты видишь ночью не хуже кошки. }
+cons_flow_magicVision_description { На [TimeAbs] сек. вы видите ночью не хуже кошки. }
 
 item_searchingGraffiti_name { Объявление: мазня на стене }
 
@@ -810,15 +810,15 @@ item_BanditsOnTheBridge_name { Объявление: освободи мост }
 
 cons_flow_dash_name { Рывок }
 
-cons_flow_dash_description { Стремительный рывок туда, куда ты смотришь. }
+cons_flow_dash_description { Стремительный рывок туда, куда вы смотрите. }
 
 cons_flow_aggressiveCry_name { Яростный крик }
 
-cons_flow_aggressiveCry_description { Ты издаёшь рёв, который бьёт конусом вперёд и наносит [PoiseDamageAbs] урона по стойке. }
+cons_flow_aggressiveCry_description { Вы издаёте рёв, который бьёт конусом вперёд и наносит [PoiseDamageAbs] урона по стойке. }
 
 cons_flow_battleCry_name { Боевой клич }
 
-cons_flow_battleCry_description { Увеличивает наносимый физический урон на [DamagePercent], скорость передвижения и атаки — на [MovePercent], но и получаемый тобой урон — на [ReceiveDamagePercent]. Длится [TimeAbs] сек. }
+cons_flow_battleCry_description { Увеличивает наносимый физический урон на [DamagePercent], скорость передвижения и атаки — на [MovePercent], но и получаемый вами урон — на [ReceiveDamagePercent]. Длится [TimeAbs] сек. }
 
 cons_flow_bullRush_name { Натиск }
 
@@ -858,7 +858,7 @@ item_poisonedThrowingKnife_description { Бросает нож, который �
 
 item_thornyRanke_name { Колючая лоза }
 
-item_thornyRanke_description { Бросает лозу, которая отравляет цель и подтягивает её к тебе. }
+item_thornyRanke_description { Бросает лозу, которая отравляет цель и подтягивает её к вам. }
 
 item_bomb_name { Осколочная бомба }
 
@@ -944,7 +944,7 @@ item_potion_windwalker_description { На [TimeAbs] сек. повышает с�
 
 item_harpybrew_name { Варево гарпии }
 
-item_harpybrew_description { Меняет местами твой фокус и здоровье. Наверняка в этом есть какой-то смысл, да? }
+item_harpybrew_description { Меняет местами ваш фокус и здоровье. Наверняка в этом есть какой-то смысл, да? }
 
 item_golemsalve_name { Мазь голема }
 
@@ -1064,11 +1064,11 @@ item_mastersmemory_description { Последний удар комбо мечо
 
 item_cleavageskull_name { Расколотый череп }
 
-item_cleavageskull_description { Ты наносишь противникам на [PoiseValuePercent] больше урона по стойке. }
+item_cleavageskull_description { Вы наносите противникам на [PoiseValuePercent] больше урона по стойке. }
 
 item_bloodthirstamulet_name { Кровожадный амулет }
 
-item_bloodthirstamulet_description { Если на противнике действует кровотечение, твои удары в ближнем бою с вероятностью [TriggerPercent] восстанавливают тебе [TriggerChance] здоровья. }
+item_bloodthirstamulet_description { Если на противнике действует кровотечение, ваши удары в ближнем бою с вероятностью [TriggerPercent] восстанавливают вам [TriggerChance] здоровья. }
 
 item_berserkerring_name { Кольцо берсерка }
 
@@ -1080,11 +1080,11 @@ item_berserkerring_2_description { За каждого убитого проти
 
 item_sprigganheart_name { Сушёное сердце спригги }
 
-item_sprigganheart_description { Когда тебя бьют в ближнем бою, с вероятностью [TriggerPercent] корни опутывают нападающего на [StunTime] сек. }
+item_sprigganheart_description { Когда вас бьют в ближнем бою, с вероятностью [TriggerPercent] корни опутывают нападающего на [StunTime] сек. }
 
 item_hunterquiver_name { Рог охотника }
 
-item_hunterquiver_description { Твой колчан вмещает на одну стрелу больше, а перезарядка идёт быстрее. }
+item_hunterquiver_description { Ваш колчан вмещает на одну стрелу больше, а перезарядка идёт быстрее. }
 
 item_boartooth_name { Череп кабана }
 
@@ -1096,11 +1096,11 @@ item_tendonofglory_description { Выстрелы прошивают наскв�
 
 item_shaftofpurefury_name { Древко чистой ярости }
 
-item_shaftofpurefury_description { За каждые [HealthPercent] потерянного здоровья ты наносишь на [DamagePercent] больше урона. }
+item_shaftofpurefury_description { За каждые [HealthPercent] потерянного здоровья вы наносите на [DamagePercent] больше урона. }
 
 item_bloodbornering_name { Кольцо крови }
 
-item_bloodbornering_description { Пропустив удар, ты можешь вернуть потерянное здоровье, если не мешкая ранишь противника. Бойся древней крови. }
+item_bloodbornering_description { Пропустив удар, вы можете вернуть потерянное здоровье, если не мешкая раните противника. Бойся древней крови. }
 
 item_whispersilkbag_name { Кошель из шепчущего шёлка }
 
@@ -1112,11 +1112,11 @@ item_rubintalisman_description { Усиливает действие всех к
 
 item_flowcatchertalisman_name { Талисман-ловец фокуса }
 
-item_flowcatchertalisman_description { Применив способность, расходующую фокус, ты ненадолго усиливаешь следующий удар в ближнем бою: он наносит на [DamageValuePercent] больше урона. }
+item_flowcatchertalisman_description { Применив способность, расходующую фокус, вы ненадолго усиливаете следующий удар в ближнем бою: он наносит на [DamageValuePercent] больше урона. }
 
 item_windtalisman_name { Талисман ветра }
 
-item_windtalisman_description { Уклонившись, ты следующим физическим ударом наносишь на [DamageValuePercent] больше урона. }
+item_windtalisman_description { Уклонившись, вы следующим физическим ударом наносите на [DamageValuePercent] больше урона. }
 
 item_lifering_name { Кольцо норн }
 
@@ -1614,11 +1614,11 @@ helmet_ruinenlager_guard2_name_name { Тяжёлый шлем отступник
 
 helmet_cauldron_name_name { Котелок }
 
-helmet_cauldron_name_description { Пока он у тебя на голове, приглядывай за своими вещами. }
+helmet_cauldron_name_description { Пока он у вас на голове, приглядывайте за своими вещами. }
 
 helmet_leathercap_name_name { Кожаная шапка }
 
-helmet_leathercap_name_description { Смотрится щегольски. Тебе к лицу. }
+helmet_leathercap_name_description { Смотрится щегольски. Вам к лицу. }
 
 helmet_gladiator_name_name { Шлем гладиатора }
 
@@ -1626,13 +1626,13 @@ helmet_gladiator_name_description { Сквозь узкую прорезь уд�
 
 helmet_blindfold_dark_name_name { Тёмная повязка на глаза }
 
-helmet_blindfold_dark_name_description { Сквозь узкую прорезь всё равно всё видно. Зато вид у тебя куда загадочнее! }
+helmet_blindfold_dark_name_description { Сквозь узкую прорезь всё равно всё видно. Зато вид у вас куда загадочнее! }
 
 helmet_blindfold_light_name_name { Светлая повязка на глаза }
 
 helmet_atlanter_name_name { Шлем Минувших }
 
-helmet_atlanter_name_description { Древний шлем. До тебя его, похоже, уже много веков никто не надевал. }
+helmet_atlanter_name_description { Древний шлем. До вас его, похоже, уже много веков никто не надевал. }
 
 helmet_straw_name_name { Соломенная шляпа }
 
@@ -1684,7 +1684,7 @@ item_sheepfur_name { Овчина }
 
 note_naughty_male_name { Голые факты }
 
-note_naughty_male_description { Рисунок красивого, статного мужчины. Он тебе никого не напоминает? }
+note_naughty_male_description { Рисунок красивого, статного мужчины. Он вам никого не напоминает? }
 
 note_naughty_female_name { В самом соку }
 
@@ -1708,7 +1708,7 @@ misc_caveSystem_description { Карта пещер под Лагерем отс
 
 armor_chest_ruinenlager_gladiator_name { Доспех гладиатора }
 
-armor_chest_ruinenlager_gladiator_description { За каждый процент потерянного здоровья ты получаешь на 1% меньше физического урона, но не больше чем на 90%.<br><br>Доспех, пропитанный кровью моих соперников. Победа — моя. }
+armor_chest_ruinenlager_gladiator_description { За каждый процент потерянного здоровья вы получаете на 1% меньше физического урона, но не больше чем на 90%.<br><br>Доспех, пропитанный кровью моих соперников. Победа — моя. }
 
 misc_bagOfCurrency_big_name { Большой мешок монет }
 
@@ -1950,7 +1950,7 @@ item_Whiskey_StoneWall_description { Старая бутылка, на кото�
 
 item_trinket_boxer_name { Шипастый цестус }
 
-item_trinket_boxer_description { Удары кулаками у тебя всегда критические. }
+item_trinket_boxer_description { Удары кулаками у вас всегда критические. }
 
 item_bigligering_name { Кольцо Иггдрасиля }
 
@@ -2068,11 +2068,11 @@ flow_cyclone_description { Круговой удар топором, нанос�
 
 flow_dashStab_name { Теневой выпад }
 
-flow_dashStab_description { Стремительный рывок туда, куда ты смотришь, сквозь других существ. Наносит [WeaponDamagePercent] магического урона оружием. Урон растёт вместе с силой и разумом. }
+flow_dashStab_description { Стремительный рывок туда, куда вы смотрите, сквозь других существ. Наносит [WeaponDamagePercent] магического урона оружием. Урон растёт вместе с силой и разумом. }
 
 flow_blast_name { Удар листа }
 
-flow_blast_description { Собирает природную магическую силу и выпускает её туда, куда ты смотришь. Наносит [DamageFlexAbs] магического урона. }
+flow_blast_description { Собирает природную магическую силу и выпускает её туда, куда вы смотрите. Наносит [DamageFlexAbs] магического урона. }
 
 flow_graspingRoots_name { Зов корней }
 
@@ -2080,15 +2080,15 @@ flow_graspingRoots_description { Собирает природную магич�
 
 flow_travelForm_name { Дар волка }
 
-flow_travelForm_description { Собирает природную магическую силу и обращает тебя в волка-призрака. Повышает скорость передвижения на [MovementPercent]. }
+flow_travelForm_description { Собирает природную магическую силу и обращает вас в волка-призрака. Повышает скорость передвижения на [MovementPercent]. }
 
 flow_natureTouch_name { Объятия природы }
 
-flow_natureTouch_description { Собирает природную магическую силу и за [TimeAbs] сек. исцеляет тебя на [HealValueAbsolut]. Исцеление растёт вместе с разумом. }
+flow_natureTouch_description { Собирает природную магическую силу и за [TimeAbs] сек. исцеляет вас на [HealValueAbsolut]. Исцеление растёт вместе с разумом. }
 
 flow_conjure_spiritCall_name { Зов Сумрачного леса }
 
-flow_conjure_spiritCall_description { Собирает природную магическую силу и призывает духов Сумрачного леса, которые помогают тебе в бою. }
+flow_conjure_spiritCall_description { Собирает природную магическую силу и призывает духов Сумрачного леса, которые помогают вам в бою. }
 
 key_extractor_name { Ключ экстрактора }
 
@@ -2096,7 +2096,7 @@ key_extractor_description { Состоит из трёх частей: ввер�
 
 flow_spiritShot_name { Натиск вепря }
 
-flow_spiritShot_description { Собирает природную магическую силу и призывает призрачного вепря: он мчится туда, куда ты смотришь, и наносит [DamageFlexAbs] магического урона. }
+flow_spiritShot_description { Собирает природную магическую силу и призывает призрачного вепря: он мчится туда, куда вы смотрите, и наносит [DamageFlexAbs] магического урона. }
 
 helmet_atlanter_champion_name { Лик чемпиона }
 

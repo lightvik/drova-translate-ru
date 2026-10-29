@@ -2,11 +2,11 @@ title_character_segment { Персонаж }
 
 label_character_level { <size=88%><cspace=-0.05em>Уровень</cspace></size> }
 
-tooltip_character_level { Показывает твой текущий уровень. По нему можно судить, насколько силён твой персонаж. }
+tooltip_character_level { Показывает ваш текущий уровень. По нему можно судить, насколько силён ваш персонаж. }
 
-tooltip_character_faction { Показывает, к какой фракции ты сейчас принадлежишь. }
+tooltip_character_faction { Показывает, к какой фракции вы сейчас принадлежите. }
 
-tooltip_character_skillpoints { Очки обучения можно потратить у учителя на повышение атрибутов или изучение талантов. С каждым новым уровнем ты сразу получаешь <color=#55BD55>четыре</color> очка обучения и <color=#55BD55>пять</color> очков здоровья. }
+tooltip_character_skillpoints { Очки обучения можно потратить у учителя на повышение атрибутов или изучение талантов. С каждым новым уровнем вы сразу получаете <color=#55BD55>четыре</color> очка обучения и <color=#55BD55>пять</color> очков здоровья. }
 
 label_character_skillpoints { <size=88%><cspace=-0.05em>Очки обучения</cspace></size> }
 
@@ -14,7 +14,7 @@ tooltip_character_xp { Очки опыта даются за убийство п
 
 label_attributes_hitpoints { <size=88%><cspace=-0.05em>Здоровье</cspace></size> }
 
-tooltip_attributes_hitpoints { Если здоровье упадёт до нуля, твой персонаж погибнет. }
+tooltip_attributes_hitpoints { Если здоровье упадёт до нуля, ваш персонаж погибнет. }
 
 tooltip_attributes_stamina { Выносливость тратится на блок, уклонение и тяжёлые атаки. }
 
@@ -24,7 +24,7 @@ tooltip_attributes_flow { Фокус тратится на способност�
 
 label_attributes_flow { <size=88%><cspace=-0.05em>Фокус</cspace></size> }
 
-tooltip_attributes_power { Боевая мощь — это сумма твоих атрибутов. От неё зависит, каким оружием ты можешь владеть. }
+tooltip_attributes_power { Боевая мощь — это сумма ваших атрибутов. От неё зависит, каким оружием вы можете владеть. }
 
 tooltip_attributes_strength { Сила увеличивает наносимый физический урон на [VALUE]. }
 
@@ -56,5 +56,5 @@ totalFIghtingStrength { <size=88%><cspace=-0.05em>Боевая мощь</cspace>
 
 baseFightingStrength { Базовая боевая мощь }
 
-baseFightingStrengthDesc { Базовая боевая мощь — это сумма твоих атрибутов без бонусов от снаряжения. От неё зависит, какие таланты тебе доступны. }
+baseFightingStrengthDesc { Базовая боевая мощь — это сумма ваших атрибутов без бонусов от снаряжения. От неё зависит, какие таланты вам доступны. }
 
