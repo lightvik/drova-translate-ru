@@ -168,7 +168,7 @@ weapon_axe_oldAxe_name { Старый топор }
 
 weapon_axe_splittingAxe_name { Топор-колун }
 
-weapon_axe_beardedAxe_name { Погнутая бородовидная секира }
+weapon_axe_beardedAxe_name { Погнутая секира }
 
 weapon_axe_broadAxe_name { Широкий топор }
 
@@ -290,7 +290,7 @@ weapon_sling_simpleSlingshot_name { Простая праща }
 
 weapon_sling_heavySlingshot_name { Тяжёлая праща }
 
-weapon_sling_headSlingshot_name { Праща-головолом }
+weapon_sling_headSlingshot_name { Меткая праща }
 
 weapon_sling_battleSlingshot_name { Боевая праща }
 
@@ -338,7 +338,7 @@ weapon_spear_ger_name { Гер }
 
 weapon_spear_bronzeSpear_name { Железное копьё }
 
-weapon_spear_spear_name { Рогатина }
+weapon_spear_spear_name { Вепрево копьё }
 
 weapon_spear_deathRitualSpear_name { Ржавое копьё }
 
@@ -966,7 +966,7 @@ item_fogstew_name { Сумрачная похлёбка }
 
 item_rootstew_name { Туманная похлёбка }
 
-item_troutskewersbombus_name { Смертельный шашлык по-бомбусовски }
+item_troutskewersbombus_name { <size=85%>Смертельный шашлык по-бомбусовски</size> }
 
 item_aditroast_name { Пещерная похлёбка }
 
